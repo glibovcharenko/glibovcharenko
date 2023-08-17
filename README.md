@@ -1,16 +1,13 @@
-### Hi there 👋
-
-<!--
-**glibovcharenko/glibovcharenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+1. About me:
+Full-stack development student at kood/Johvi.
+Passionate about building beautiful and efficient web and mobile applications.
+2. Tech Stack:
+Back-end: Go (Golang), Node.js
+Front-end: HTML, CSS, Javascript, TypeScript, React.js
+Mobile: Swift
+Database: SQLite
+Version control: Git, Bitbucket
+Project management: Jira
+3. Education:
+Full-stack development student at kood/Johvi
+Master's degree in Space Research
